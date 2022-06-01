@@ -1,0 +1,12 @@
+{
+  "name": "lseg-question-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/equable23025/lseg-question-3.git",
+  "author": "Siraprapa Singkham <ni.siraprapa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11"
+  }
+}
